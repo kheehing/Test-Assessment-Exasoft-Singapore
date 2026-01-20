@@ -3,7 +3,7 @@
 
 ## Assignment 1
 
-
+```
 // PROBLEM DEFINITION
 // ------------------
 // Reverse each word in the input string.
@@ -19,7 +19,7 @@
 // A working solution is preferred (assert in main() should succeed)
 // Bonus points for good tests
 
-```
+
 #include <string>
 #include <cassert>
 std::string reverse_words(const std::string &str)
@@ -35,10 +35,10 @@ return 0;
 }
 ```
 
-Assignment 2
+## Assignment 2
 
 
-## Refactor code
+Refactor code
  -------------
  Not timed (good to get it back within 24 hours)
 
