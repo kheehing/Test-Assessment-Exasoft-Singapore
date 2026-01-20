@@ -4,14 +4,13 @@
 ## Assignment 1
 
 
-PROBLEM DEFINITION
-------------------
+### PROBLEM DEFINITION
 Reverse each word in the input string.
 The order of the words will be unchanged.
 A word is made up of letters and/or numbers.
 Other characters (spaces, punctuation) will not be reversed.
 NOTES
-------
+
 Write production quality code.
 We prefer clarity over performance (though if you can achieve both - great!).
 You can use the language that best highlights your programming ability.
